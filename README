@@ -6,5 +6,7 @@ that castle and wins its victory points. If you each send the same number of tro
 
 This problem was taken from a Riddler Classic: https://fivethirtyeight.com/features/can-you-rule-riddler-nation/
 
-Program.cs is the bulk of the program: every possible combination is considered and the one with the most wins is selected.
-Castle.cs creates Castle objects in a database.
+Program.cs  is the bulk of the program: every possible combination is considered and the one with the most wins is selected.
+Castle.cs   creates Castle objects in a database.
+
+**DATABASE IS A MYSQL DATABASE IMPORTED INTO VISUAL STUDIO AS .XSD**
