@@ -4,7 +4,7 @@ value for a would-be conqueror. Specifically, the castles are worth 1, 2, 3, …
 that castle and wins its victory points. If you each send the same number of troops, you split the points. You don’t know what distribution of forces your enemy has chosen until the battles begin. Whoever wins the most points wins the war."
 
 
-This problem was taken from a Riddler Classic: https://fivethirtyeight.com/features/can-you-rule-riddler-nation/
+This problem was solved from a Riddler Classic: https://fivethirtyeight.com/features/can-you-rule-riddler-nation/
 
 Program.cs  is the bulk of the program: every possible combination is considered and the one with the most wins is selected.
 Castle.cs   creates Castle objects in a database.
