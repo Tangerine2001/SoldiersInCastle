@@ -6,3 +6,6 @@ of forces your enemy has chosen until the battles begin. Whoever wins the most p
 
 
 This problem was taken from a Riddler Classic: https://fivethirtyeight.com/features/can-you-rule-riddler-nation/
+
+Program.cs is the bulk of the program: every possible combination is considered and the one with the most wins is selected.
+Castle.cs creates Castle objects in a database.
